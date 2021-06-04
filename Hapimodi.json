@@ -1,15 +1,15 @@
 { 
   "AdsController": [
       {
-        "NetworkAds": "unity-fb",
+        "NetworkAds": "unity",
         "AdMobId": "pub-3940256099942544",
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
         
-        "BannerFacebook": "225816435687755_225816635687735",
-        "InterstitialFacebook": "225816435687755_225817232354342",
-        "NativeFacebook": "225816435687755_225818375687561", 
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": "", 
         
         "banner_unity" : "Banner_Android",
         "inter_unity" : "Interstitial_Android",
